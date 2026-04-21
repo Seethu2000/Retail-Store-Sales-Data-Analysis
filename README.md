@@ -1,7 +1,7 @@
 # Retail-Store-Sales-Data-Analysis
 Project Overview
 This project analyzes retail sales data to understand customer behavior, sales patterns, and overall business performance. The goal is to identify key factors that influence sales and provide useful business insights.
-
+Dataset Source - https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
 Objectives
 Analyze customer purchasing behavior
 Identify high-performing product categories

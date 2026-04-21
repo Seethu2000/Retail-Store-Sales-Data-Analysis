@@ -10,60 +10,60 @@ https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-da
 
 **Objectives**
 
-. Analyze customer purchasing behavior
+* Analyze customer purchasing behavior
 
-Identify high-performing product categories
+* Identify high-performing product categories
 
-Understand the impact of quantity and price on sales
+* Understand the impact of quantity and price on sales
 
-Study payment methods and discount usage
+* Study payment methods and discount usage
 
-Generate insights for better decision-making
+* Generate insights for better decision-making
 
 
 **Dataset**
 
 The dataset includes:
 
-Category
+* Category
 
-Quantity
+* Quantity
 
-Price per Unit
+* Price per Unit
 
-Total Spent
+* Total Spent
 
-Payment Method
+* Payment Method
 
-Location (Online / In-store)
+* Location (Online / In-store)
 
-Discount Applied
+* Discount Applied
 
 
 **Tools Used**
 
-Python
+* Python
 
-Pandas
+* Pandas
 
-Matplotlib
+* Matplotlib
 
-Seaborn
+* Seaborn
 
-Google Colab 
+* Google Colab 
 
 
 **Key Insights**
 
-Most sales are low to medium value transactions
+* Most sales are low to medium value transactions
 
-Quantity has the strongest impact on total sales
+* Quantity has the strongest impact on total sales
 
-Sales are evenly distributed across categories
+* Sales are evenly distributed across categories
 
-Payment methods are used almost equally
+* Payment methods are used almost equally
 
-Discounts are not the main driver of sales
+* Discounts are not the main driver of sales
 
 
 **Conclusion**
@@ -72,8 +72,12 @@ The analysis shows stable business performance with consistent customer purchasi
 
 **Recommendations**
 
-Increase average order value using combo offers
-Focus on high-performing categories
-Improve low-performing categories with marketing
-Encourage digital payments
-Introduce loyalty programs
+* Increase average order value using combo offers
+
+* Focus on high-performing categories
+
+* Improve low-performing categories with marketing
+
+* Encourage digital payments
+
+* Introduce loyalty programs

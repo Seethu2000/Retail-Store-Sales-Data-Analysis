@@ -1,12 +1,12 @@
 # Retail-Store-Sales-Data-Analysis
 
-Project Overview
+**Project Overview**
 
 This project analyzes retail sales data to understand customer behavior, sales patterns, and overall business performance. The goal is to identify key factors that influence sales and provide useful business insights.
 
-Dataset Source - https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
+**Dataset Source** - https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
 
-Objectives
+**Objectives**
 
 Analyze customer purchasing behavior
 
@@ -19,7 +19,7 @@ Study payment methods and discount usage
 Generate insights for better decision-making
 
 
-Dataset
+**Dataset**
 
 The dataset includes:
 
@@ -38,7 +38,7 @@ Location (Online / In-store)
 Discount Applied
 
 
-Tools Used
+**Tools Used**
 
 Python
 
@@ -48,10 +48,10 @@ Matplotlib
 
 Seaborn
 
-Google Colab Notebook
+Google Colab 
 
 
-Key Insights
+**Key Insights**
 
 Most sales are low to medium value transactions
 
@@ -64,10 +64,12 @@ Payment methods are used almost equally
 Discounts are not the main driver of sales
 
 
-Conclusion
+**Conclusion**
+
 The analysis shows stable business performance with consistent customer purchasing behavior. Increasing the number of items sold can significantly improve revenue. Sales are balanced across categories and payment methods.
 
-Recommendations
+**Recommendations**
+
 Increase average order value using combo offers
 Focus on high-performing categories
 Improve low-performing categories with marketing
